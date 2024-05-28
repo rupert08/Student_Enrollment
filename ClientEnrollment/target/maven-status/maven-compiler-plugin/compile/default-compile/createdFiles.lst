@@ -1,0 +1,10 @@
+za\co\cput\workers\Admin.class
+za\co\cput\workers\Student.class
+za\co\cput\guis\LoginGUI.class
+za\co\cput\guis\RegistrationGUI.class
+za\co\cput\workers\User.class
+za\co\cput\mains\ClientMain.class
+za\co\cput\workers\Enrollment.class
+za\co\cput\guis\StudentEnrollmentGUI.class
+za\co\cput\workers\Course.class
+za\co\cput\connections\ClientHandler.class
